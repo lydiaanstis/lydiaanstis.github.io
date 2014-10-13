@@ -1,0 +1,30 @@
+<DOCTYPE! html>
+<html>
+
+<head>
+<title>About Lydia</title>
+</head>
+
+<body>
+<p>I’m a Graphic Designer living in Melbourne, Australia. I became interested in Front-End Web Design and Development because I wanted to build well-designed websites. Plus I like code.</p>
+
+<h1>My Mission</h1>
+<p>As I learn more about front-end, I hope to one day work as a Graphic Designer and Web Developer with an NGO or small start up or be freelancing, because I like to work in a place that I believe in.</p>
+
+<h2>My Experience</h2>
+<p>This is how I’ve evolved professionally:</p>
+<ul>
+<li><strong>Graphic Designer,</strong> Melbourne Guru <br><em>Melbourne, 2014 </em></li>
+<li><strong>Graphic Designer,</strong> Salt & Fuessell <br><em>Melbourne, 2014 </em></li>
+<li><strong>Graphic Designer,</strong> Committee for Sri Lanka <br><em>Melbourne, 2014</em></li>
+</ul>
+
+<h2>Education</h2>
+<strong>Masters of Communication Design,</strong><em>RMIT, 2014</em>
+<strong>Post Graduate Diploma in Graphic Design,</strong><em>RMIT, 2013</em<
+<strong>Bachelor of Science (Scientific Photography),</strong><em> RMIT, 2009</em>
+
+<h2>Other</h2>
+<p>If you’re interested in collaborating with me on a project, feel free to email me at <a href="lydia.anstis@hotmail.com"</a></p>
+</body>
+</html>
