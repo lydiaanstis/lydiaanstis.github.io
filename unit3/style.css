@@ -1,9 +1,21 @@
-body {
-	background: url("unit3images/background.jpg");
+ body {
+ 	background: url(unit3images/stripes.png) repeat-x, url(unit3images/background.jpg) no-repeat;
+ 	background-color: #52596b;
+ 	background-size: cover;
+ 	color: #ffffff;
+ 	font-family: Helvetica, Arial, sans-serif;
+ 	font-size: 26px;
+ 	font-weight: normal;
+ 	padding: 0;
+ }
+ section{
+ 	margin: 340px 0 0 150px;
+ }
+ hr {
+ 	border: 1px solid #fd6e6e;
+ 	width: 45px;
+ }
+img { margin:10px 0 0 0;}body {
+	background-image: url(unit3images/background.jpg);
 }
 
-hr {
-}
-
-a {
-}
