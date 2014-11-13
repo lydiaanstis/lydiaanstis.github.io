@@ -10,6 +10,9 @@ body {
   	}
   section{
   	margin: 340px 0 0 150px;
+  }
+
+  hr{
   	border: 1px solid #fd6e6e;
   	width: 45px;
   }
