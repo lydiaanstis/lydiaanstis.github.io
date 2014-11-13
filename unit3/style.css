@@ -1,6 +1,7 @@
  +* { margin:0; padding:0; box-sizing:border-box; }
 body {
-  	background: url(unit3images/stripes.png) repeat-x, url(unit3images/background.jpg) no-repeat;
+  	background: url(unit3images/stripes.png) repeat-x;
+  	background-image: url(unit3images/background.jpg) no-repeat;
   	background-color: #52596b;
   	background-size: auto, cover;
   	color: #ffffff;
@@ -13,4 +14,3 @@ body {
   	border: 1px solid #fd6e6e;
   	width: 45px;
   }
-
