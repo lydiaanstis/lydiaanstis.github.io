@@ -16,3 +16,7 @@ body {
   	border: 1px solid #fd6e6e;
   	width: 45px;
   }
+
+  p{
+  	margin:15px 0;
+  }
